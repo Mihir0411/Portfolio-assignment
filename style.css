@@ -7,8 +7,9 @@ h1{
 }
 .orange{
     color: rgb(255, 102, 0);
+   
 }
-.first-half-design{
+.first-towpart-design{
     width: 35%;
     float: left;
     margin-left: 5%;
@@ -16,7 +17,7 @@ h1{
    padding: 3%;
     
 }
-.first-half-design img{
+.first-towpart-design img{
     width:100%;
 }
 section{
