@@ -1,0 +1,135 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: rgb(255, 102, 0);
+}
+.first-half-design{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 0%;
+   padding: 3%;
+    
+}
+.first-half-design img{
+    width:100%;
+}
+section{
+    height: 400px;
+    padding-bottom: 200px;
+}
+.baton{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    width: 700;
+    position: relative;
+    top: 20px;
+}
+.middle{
+    background-color: rgb(235, 233, 233);
+    height: 500px;
+}
+.three-style{
+    width: 20%;
+    float: left;;
+    margin-left: 1%;
+    padding: 1%;
+   
+}
+span{
+    color: rgb(247, 99, 1);
+}
+.three-style img{
+    width: 100%;
+}
+.middle h2 {
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.thre-space{
+   position: relative;
+   left: 200px;
+   top:  200px;
+
+}
+
+.last img{
+    width: 1000px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
+
+.last-area h1{
+    color: white;
+    position: relative;
+    left: 100px;
+    bottom: 65px;
+    
+    
+}
+.last-area{
+    width: 25%;
+    float: left;
+    margin-left: 10%;
+    padding: 2%;
+}
+.last-area a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    width: 700;
+    position: relative;
+    left: 300px;
+   bottom:  0px;
+
+}
+.bonas-marks{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding: 1%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.Experiences-area{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#w-d{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg,lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#uid{
+    border-left: 7px solid ;
+    border-right: 7px solid ;
+    border-image: linear-gradient(180deg,rgb(17, 45, 206), rgb(95, 228, 238));
+    border-image-slice: 1;
+}
+#v-e{
+    border: 7px solid ;
+    border-image: linear-gradient(180deg,rgb(17, 200, 206), red);
+    border-image-slice: 1;
+}
+
+#extra{
+    font-size: 50px;
+    margin-left: 15px;
+}
