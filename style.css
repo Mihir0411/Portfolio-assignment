@@ -113,18 +113,18 @@ span{
     background-repeat: no-repeat;
     background-position: left;
 }
-#w-d{
+#web-dev{
     border-left: 7px solid ;
     border-image: linear-gradient(180deg,lightsalmon, tomato);
     border-image-slice: 1;
 }
-#uid{
+#user-inter{
     border-left: 7px solid ;
     border-right: 7px solid ;
     border-image: linear-gradient(180deg,rgb(17, 45, 206), rgb(95, 228, 238));
     border-image-slice: 1;
 }
-#v-e{
+#video-edit{
     border: 7px solid ;
     border-image: linear-gradient(180deg,rgb(17, 200, 206), red);
     border-image-slice: 1;
